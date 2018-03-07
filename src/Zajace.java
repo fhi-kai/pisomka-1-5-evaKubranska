@@ -1,5 +1,5 @@
 public class Zajace implements ZajacieUsi{
-
+//com
     @Override
     public int zajacieUsi(int pocetZajacov) {
         int pocet =0;
